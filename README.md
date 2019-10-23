@@ -7,5 +7,5 @@ Pueden descargarse la totalidad de los materiales del repositorio de
 
 # Notebook
 - [Explicación y práctica - Notebook](notebook/ml_imputation_notebook.nb.html)
-- [Explicación y práctica - RCode](clase1/ml_imputation_script.R)
+- [Explicación y práctica - RCode](scripts/ml_imputation_script.R)
 

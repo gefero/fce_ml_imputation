@@ -1,6 +1,9 @@
+[![](img/big-data-3.jpg)](http://www.eco.unc.edu.ar/noticia-principal/2-workshop-sobre-big-data-en-ciencias-economicas)
+
 # Presentación
 El objetivo de este taller es brindar una primera aproximación a algunos conceptos fundamentales de Machine Learning: hiperparámetros, sesgo-varianza, flujo de trabajo, error de generalización, serán algunos de los conceptos a trabajar.
 A su vez, se propone como caso de estudio la construcción de un imputador de ingresos para la Encuesta Permanente de Hogares.
+
 
 # Contenidos y materiales
 Pueden descargarse la totalidad de los materiales del repositorio para trabajar en un único archivo .zip

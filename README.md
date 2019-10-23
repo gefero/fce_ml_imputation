@@ -3,7 +3,10 @@ El objetivo de este taller es brindar una primera aproximación a algunos concep
 A su vez, se propone como caso de estudio la construcción de un imputador de ingresos para la Encuesta Permanente de Hogares.
 
 # Contenidos y materiales
-Pueden descargarse la totalidad de los materiales del repositorio de 
+Pueden descargarse la totalidad de los materiales del repositorio para trabajar en un único archivo .zip
+
+[![](img/Download.png)](REPO_ML_workshop.zip)
+
 
 # Notebook
 - [Explicación y práctica - Notebook](notebook/ml_imputation_notebook.nb.html)

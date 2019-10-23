@@ -1,6 +1,6 @@
 [![](img/big-data-3.jpg)](http://www.eco.unc.edu.ar/noticia-principal/2-workshop-sobre-big-data-en-ciencias-economicas)
 
-[Germán Rosati](gefero.github.io)
+# [Germán Rosati](gefero.github.io)
 
 # Presentación
 El objetivo de este taller es brindar una primera aproximación a algunos conceptos fundamentales de Machine Learning: hiperparámetros, sesgo-varianza, flujo de trabajo, error de generalización, serán algunos de los conceptos a trabajar.

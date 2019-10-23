@@ -10,8 +10,23 @@ Pueden descargarse la totalidad de los materiales del repositorio para trabajar 
 
 [![](img/Download.png)](REPO_ML_workshop.zip)
 
+# Librería a utilizar
+El taller se desarrollará en R y se hará un uso extensivo de las siguientes librerías:
 
-# Notebook
+- `tidyverse`
+- `caret`
+
+Pueden instalarse utilizando las instrucciones:
+
+```{r}
+install.packages('tidyverse')  
+install.packages('caret') 
+```
+
+# Instructivo de instalación
+Ante cualquier duda pueden consultar el [instructivo de instalación](https://docs.google.com/document/d/1QOo8NsT1cZDJCID3qPvryc6Wl_9oMHxsY5B_CbWBEdg/edit)
+
+# Notebook y código
 - [Explicación y práctica - Notebook](notebook/ml_imputation_notebook.nb.html)
 - [Explicación y práctica - RCode](scripts/ml_imputation_script.R)
 
